@@ -26,7 +26,7 @@
 
 1. Welcome Screen
 
-![](./views/1.png)
+![]
 
 2. Personal Chat Screen
 
